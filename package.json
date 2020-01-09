@@ -1,7 +1,7 @@
 {
-  "name": "@stewyearthy/gulp-template",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@stewyearthy/gulp-boilerplate",
+  "version": "0.1.0",
+  "description": "Simple gulp boilerplate for ease of use",
   "main": "index.js",
   "scripts": {
     "dev": "gulp",
@@ -14,8 +14,8 @@
   },
   "bugs": "https://github.com/StewyEarth/gulp-template/issues",
   "homepage": "https://github.com/StewyEarth/gulp-template#readme",
-  "keywords": [],
-  "author": "",
+  "keywords": ["gulp","template","sass","imagemin","babel","pug","boilerplate"],
+  "author": "Daniel Yde Therkildsen <dtherkildsen@hotmail.com>",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.7.7",
@@ -32,5 +32,6 @@
     "gulp-sourcemaps": "^2.6.5",
     "gulp-uglify": "^3.0.2",
     "imagemin-jpeg-recompress": "^6.0.0"
-  }
+  },
+  "public": true
 }
