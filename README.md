@@ -1,6 +1,6 @@
 # @stewyearth/gulp-template
 
-## instalation
+## installation
 ```
 npm i @stewyearth/gulp-template
 ```
