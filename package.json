@@ -1,6 +1,6 @@
 {
   "name": "@stewyearthy/gulp-boilerplate",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Simple gulp boilerplate for ease of use",
   "main": "index.js",
   "bin": {
