@@ -55,8 +55,6 @@ exec("npm i -D @babel/core @babel/preset-env gulp gulp-babel gulp-clean-css gulp
         console.log(err);
         process.exit(1);
     }
-    stdout.on("data",(data)=>{
-        console.log(data.toString())
-    })
+    console.log("Installing packages.")
     console.log(stdout)
 })
